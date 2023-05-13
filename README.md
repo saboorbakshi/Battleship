@@ -8,10 +8,10 @@ How to play:
   * Dragging the mouse whilst having the ship selected drags the ship.
   * Right clicking on a ship rotates it to the right by 90 degrees. 
   * Releasing the left-hand button releases the ship.
-  * Releasing a ship anywhere but inside your formation animates the ship back to its original position
-  * Overlapping two ships is restricted.
-* Once all ships are placed, the Start Game button is activated.
-* Once clicked upon, the computer (opponent) places its ships.
+  * Releasing a ship anywhere but inside your formation animates the ship back to its original position.
+  * Overlapping two ships is not a valid action.
+* Once all the ships are placed, the Start Game button is activated.
+* When clicked upon, the computer (opponent) places its ships.
 * Click on any tile in the Opponent's Waters.
   * If the tile turns grey, you missed.
   * Else if the tile gets bombed, you hit.
