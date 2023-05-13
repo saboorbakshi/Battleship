@@ -15,9 +15,9 @@ How to play:
 * Once all ships are placed, the Start Game button is activated.
 * Once clicked upon, the computer (opponent) places its ships.
 * Click on any tile in the Opponent's Waters.
- * If the tile turns grey, you missed.
- * Else if the tile gets bombed, you hit.
- * The tiles turn red when a ship sinks.
+  * If the tile turns grey, you missed.
+  * Else if the tile gets bombed, you hit.
+  * The tiles turn red when a ship sinks.
 * Whoever sinks all 5 ships first wins.
 
 
